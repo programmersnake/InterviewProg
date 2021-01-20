@@ -1,0 +1,4 @@
+# Project exclude paths
+/Algorithms/target/
+/hackerrank.com/target/
+/out/
